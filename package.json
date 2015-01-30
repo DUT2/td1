@@ -1,0 +1,11 @@
+{
+  "name": "td1",
+  "description": "td1 Node.js IUT Limousin",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.10",
+    "body-parser": "~1.10",
+    "express-handlebars":"~1.1"
+  }
+}
