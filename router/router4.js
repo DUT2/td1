@@ -1,6 +1,6 @@
-var HomeController = require('./controllers/HomeController');
-var ClientController = require('./controllers/ClientController');
-var ArticleController = require('./controllers/ArticleController');
+var HomeController = require('../controllers/HomeController4');
+var ClientController = require('../controllers/ClientController4');
+var ArticleController = require('../controllers/ArticleController4');
 
 module.exports = function(app){
 

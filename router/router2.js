@@ -12,7 +12,7 @@ module.exports = function(app){
 
 
 
-  app.get('*', function(){console.log('racine')});
-  app.post('*', function(){console.log('racine')});
+  app.get('*', function(){console.log('racinePoubelle')});
+  app.post('*', function(){console.log('racinePoubelle')});
 
 };
