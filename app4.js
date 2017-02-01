@@ -1,6 +1,5 @@
 var express         = require('express'),
    http = require('http'),
-   path = require('path'),
    handlebars  	  = require('express-handlebars'), hbs;
 
 var app = express();

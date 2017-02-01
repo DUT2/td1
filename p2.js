@@ -2,7 +2,7 @@ var http = require('http');
 
 var serv = http.createServer( //création d'un serveur web
   function (req, res) { //callback sur les requêtes HTTP
-      res.end('<b> coucou');
+      res.end('<b> coucou </b>');
       console.log('coucou');
   }
 );

@@ -1,7 +1,6 @@
 var express       = require('express'),
    http           = require('http'),
-   path           = require('path'),
-   session         = require('express-session'), // pour gérer les variables de session
+   session        = require('express-session'), // pour gérer les variables de session
    bodyParser     = require('body-parser'), //pour récupérer les résultats des post
    handlebars  	  = require('express-handlebars'), hbs;
 

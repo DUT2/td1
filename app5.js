@@ -1,6 +1,5 @@
 var express       = require('express'),
    http           = require('http'),
-   path           = require('path'),
    bodyParser     = require('body-parser'), //pour récupérer les résultats des post
    handlebars  	  = require('express-handlebars'), hbs;
 

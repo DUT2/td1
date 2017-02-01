@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "~4.10",
-    "body-parser": "~1.10",
-    "express-handlebars":"~1.1",
-    "cookie-parser":"1.4",
-    "express-session": "1.13"
+    "express": "*",
+    "body-parser": "*",
+    "express-handlebars":"*",
+    "cookie-parser":"*",
+    "express-session": "*"
   }
 }

@@ -1,6 +1,5 @@
 var express         = require('express'),
-   http = require('http'),
-   path = require('path');
+   http = require('http');
 
 var app = express();
 app.set('port', 6800);

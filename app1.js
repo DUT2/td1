@@ -1,11 +1,9 @@
 var express         = require('express'),
-   http = require('http'),
-   path = require('path');
+   http = require('http');
 
 var app = express();
-app.set('port', 6800);
-// pas de routeur
+// pas de routeur --> message erreur
 
-http.createServer(app).listen(app.get('port'), function(){
-  console.log('Express server en attente sur le port : ' + app.get('port'));
+http.createServer(app).listen(6800, function(){
+  console.log('Express server en attente sur le port : 6800');
 });
