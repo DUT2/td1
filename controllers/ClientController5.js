@@ -1,7 +1,7 @@
   // ////////////////////////////////////////////// C L I E N T
 module.exports.Client = function(request, response){
    response.title ="Client"
-   response.render('client', response);
+   response.render('client', response); // affiche client.handlebars dans views
 };
 
 

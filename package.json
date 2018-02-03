@@ -1,13 +1,13 @@
 {
   "name": "td1",
   "description": "td1 Node.js IUT Limousin",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "express": "*",
     "body-parser": "*",
-    "express-handlebars":"*",
-    "cookie-parser":"*",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-handlebars": "*",
     "express-session": "*"
   }
 }

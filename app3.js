@@ -1,3 +1,8 @@
+// version 3 encore un peu  basique un routeur
+// pas de vues
+// des controleurs mais se sont eux qui font les affichages
+
+
 var express         = require('express'),
    http = require('http');
 

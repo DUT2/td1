@@ -1,3 +1,7 @@
+// version 1 très basique pas de routeur
+// message d'erreur dès le lancement
+
+
 var express         = require('express'),
    http = require('http');
 

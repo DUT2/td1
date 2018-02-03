@@ -1,3 +1,9 @@
+// version 4 : on approche du but :-)
+// des controleurs
+// les vues font les affichages
+
+
+
 var express         = require('express'),
    http = require('http'),
    handlebars  	  = require('express-handlebars'), hbs;

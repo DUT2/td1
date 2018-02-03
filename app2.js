@@ -1,3 +1,8 @@
+// version 2  basique un routeur
+// pas de vues
+// pas de controleur
+
+
 var express         = require('express'),
    http = require('http');
 
